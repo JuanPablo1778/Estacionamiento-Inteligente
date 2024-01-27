@@ -1,2 +1,4 @@
 # Estacionamiento-Inteligente
-Proyecto de Samsung
+Proyecto de Samsung: Equipo 3
+En la era actual, donde la movilidad urbana se ha convertido en un desafío creciente, la necesidad de optimizar y mejorar la gestión de estacionamientos es más evidente que nunca. Este proyecto propone una solución innovadora y eficiente mediante la automatización de un estacionamiento, aprovechando las últimas tecnologías para ofrecer una experiencia más conveniente y fluida para los usuarios. Esta automatización no solo busca agilizar el proceso de estacionamiento, sino también contribuir a la reducción de congestiones vehiculares y la optimización del espacio urbano.
+Aspiramos también a crear un modelo pionero que no solo mejore la eficiencia del estacionamiento, sino que también siente las bases para un futuro más inteligente y sostenible en la gestión del tráfico y la movilidad en entornos urbanos, destacando las ventajas que un proyecto así puede traer a nivel local.
